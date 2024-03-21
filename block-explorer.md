@@ -1,8 +1,8 @@
 ---
-description: BlockExplores
+description: BlockExplorer
 ---
 
-# Block-Explores
+# Block-Explorer
 
 ## Block Explorers
 
