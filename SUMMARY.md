@@ -7,4 +7,3 @@
 * [Faucet](faucet.md)
 * [Tools](tools/README.md)
   * [Tools and Plugins](tools/tools-and-plugins.md)
-* [Omnicomputing Preview](omnicomputing-preview.md)
