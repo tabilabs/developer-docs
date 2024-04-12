@@ -7,3 +7,4 @@
 * [Faucet](faucet.md)
 * [Tools](tools/README.md)
   * [Tools and Plugins](tools/tools-and-plugins.md)
+* [Tabi Under the hood](tabi-under-the-hood.md)
