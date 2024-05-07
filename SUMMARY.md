@@ -7,4 +7,6 @@
 * [Faucet](faucet.md)
 * [Tools](tools/README.md)
   * [Tools and Plugins](tools/tools-and-plugins.md)
+  * [Tabi Graph](tools/tabi-graph.md)
+  * [Tabi Link Oracle](tools/tabi-link-oracle.md)
 * [Tabi Under the hood](tabi-under-the-hood.md)
