@@ -1,13 +1,11 @@
----
-description: Captain Node
----
+# Captain Node
 
-# Captain Node Mining Mechanism
+## Captain Node Mining Mechanism
 
-## Core Logic
-### Mining Reward Calculation
+### Core Logic
+#### Mining Reward Calculation
 General parameter information is as follows:
-### Calculation Steps
+#### Calculation Steps
 1. Daily Tabi Issuance Calculation (DailyTabiIssuance):
 - DailyTabiIssuance = InflationBase * InflationRate / BlocksPerYear * BlocksPerDay
 2. Halving Cycle Calculation (Halving Cycle):
@@ -46,22 +44,22 @@ General parameter information is as follows:
 15. Node Emission Output Calculation (CaptainNodeDailyReward):
 - CaptainNodeDailyReward = Daily Total Output * Mining Power Ratio
 - CaptainNodeBlockReward = CaptainNodeBlockActualEmission * Mining Power Ratio
-### Reward Distribution
+#### Reward Distribution
 - Distribution Implementation: On-chain calculations only, rewards must be manually claimed by users.
-### Governance Parameters
+#### Governance Parameters
 - TotalCountCaptains: 200,000 (maximum number of nodes)
 - MinimumPowerOnPeriod: 6
 - MaximumPowerOnPeriod: 24
 - ConstentA: 9,000,000
 - CurrentLevelForSale: 1
-### Running Time Calculation
+#### Running Time Calculation
 - Running Time Coefficient: Actual running time / 24
     - Assuming: Running time coefficient is y, actual running time is x (x >= 6), maximum running time is constant k=24
     - Then: y = x/k (x>=6) or y = 0 (x<6)
-#### forecasting
+##### Forecaster Layer
       The Tabi team has implemented a Forecaster layer to collect the operating status of all Captain Nodes, submitting this information at a set epoch. The current epoch is 24 hours UTC.
 
-### Node Power Rewards
+#### Node Power Rewards
 Users can earn node power rewards in the following ways:
 - Mining Commission #Direct Referral: Users (addresses) invite others to purchase Captain Nodes and receive unclaimed node power rewards.
 - Node Power Bonus #Self Purchase: Users (addresses) receive additional node power through invitation codes or coupons when purchasing Captain Nodes themselves.
