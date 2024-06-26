@@ -9,7 +9,7 @@ Tabi Graph is built using Graph Node, an open-source Rust implementation whose e
 
 1. ### Installing the Graph CLI
 
-On your local computer, run one of the following commands:Use npm:
+On your local computer, run one of the following commands: Use npm:
 
 ```Plain
 npm install -g @graphprotocol/graph-cli
