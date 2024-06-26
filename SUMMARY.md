@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Tabichain](README.md)
+* [Captain Nodes](captain-node.md)
 * [Getting Started](getting-started.md)
 * [Smart Contract](smart-contract.md)
 * [Block Explores](block-explores.md)

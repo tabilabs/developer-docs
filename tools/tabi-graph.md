@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Tabi Graph is built using Graph Node, an open-source Rust implementation whose event sources come from the Ethereum blockchain to deterministically update data stores that can be queried through GraphQL endpoints.\
+Tabi Graph is built using Graph Node, an open-source Rust implementation whose event sources come from the Ethereum blockchain to deterministically update data stores that can be queried through GraphQL endpoints.
 
 
 ## Instructions
