@@ -2,6 +2,8 @@
 
 * [Tabichain](README.md)
 * [Captain Nodes](captain-node.md)
+* [Testnet V2](testnet-v2.md)
+* [Infrastructure on Testnet V2](infra-on-testnet-v2.md)
 * [Getting Started](getting-started.md)
 * [Smart Contract](smart-contract.md)
 * [Block Explores](block-explores.md)
