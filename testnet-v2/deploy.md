@@ -35,7 +35,7 @@ check the output file in ~/tabi/build dir
 ```shell
 ~$ cd 
 ~$ git clone https://github.com/tabilabs/networks.git
-~$ cp networks/testnet-v2/genesis.json  ./tabid/config/
+~$ cp networks/testnet-v2/genesis.json  ~/.tabid/config/
 ```
 
 ### Config the node
