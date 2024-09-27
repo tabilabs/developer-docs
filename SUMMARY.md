@@ -7,6 +7,7 @@
   * [Deploy Testnet-V2 full node](testnet-v2/deploy.md)
   * [Full node command line manual](testnet-v2/full-node-command-line-mannual.md)
   * [For developer](testnet-v2/for-developer.md)
+  * [How to Add Tabi TestNet V2 to Metamask](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
 * [Getting Started](getting-started.md)
 * [Smart Contract](smart-contract.md)
 * [Block Explores](block-explores.md)
