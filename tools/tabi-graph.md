@@ -4,10 +4,9 @@
 
 Tabi Graph is built using Graph Node, an open-source Rust implementation whose event sources come from the Ethereum blockchain to deterministically update data stores that can be queried through GraphQL endpoints.
 
-
 ## Instructions
 
-1. ### Installing the Graph CLI
+1. #### Installing the Graph CLI
 
 On your local computer, run one of the following commands: Use npm:
 
@@ -21,13 +20,13 @@ Use yarn:
 yarn global add @graphprotocol/graph-cli
 ```
 
-2. ### Initialization
+2. #### Initialization
 
 ```Plain
 graph init --studio <SUBGRAPH_SLUG>
 ```
 
-3. ### Subgraph preparation
+3. #### Subgraph preparation
 
 When making changes to Subgraph, three main files will be used:
 
@@ -37,7 +36,7 @@ When making changes to Subgraph, three main files will be used:
 
 Refer to [The Graph](https://thegraph.com/docs/zh/developing/creating-a-subgraph/)
 
-4. ### Deployment
+4. #### Deployment
 
 Once your Subgraph is written, run the following command:
 
@@ -47,12 +46,11 @@ graph build
 graph deploy <SUBGRAPH_SLUG> --ipfs https://graph.testnet.tabichain.com/ipfs --node https://graph.testnet.tabichain.com/deploy
 ```
 
-5. ### Query
+5. #### Query
 
 Query address: https://graph.testnet.tabichain.com/subgraphs/name/ < NAME >
 
-See [GraphQL API for details](https://thegraph.com/docs/zh/querying/querying-best-practices/)\
-
+See [GraphQL API for details](https://thegraph.com/docs/zh/querying/querying-best-practices/)\\
 
 ## Example
 
@@ -66,4 +64,4 @@ See [GraphQL API for details](https://thegraph.com/docs/zh/querying/querying-bes
 [https://thegraph.com/docs/zh/developing/creating-a-subgraph](https://thegraph.com/docs/zh/developing/creating-a-subgraph)
 
 [https://thegraph.com/docs/zh/quick-start\
-](https://thegraph.com/docs/zh/quick-start)\
+](https://thegraph.com/docs/zh/quick-start)\\

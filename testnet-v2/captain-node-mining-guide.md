@@ -1,0 +1,2 @@
+# Captain Node Mining Guide
+
