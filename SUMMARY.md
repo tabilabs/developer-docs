@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Tabichain](README.md)
-* [Captain Nodes](captain-node.md)
+* [Page](page.md)
+* [Captain Nodes](captain-node/README.md)
+  * [Mining Reward Calculation Logic](captain-node/mining-reward-calculation-logic.md)
+  * [Booster Factor and Node Mining Power](captain-node/booster-factor-and-node-mining-power.md)
+  * [Tier System and Activation Timing](captain-node/tier-system-and-activation-timing.md)
 * [Testnet V2](testnet-v2/README.md)
   * [Infrastructure on Testnet V2](testnet-v2/infra-on-testnet-v2.md)
   * [Deploy Testnet-V2 full node](testnet-v2/deploy.md)
@@ -18,3 +22,10 @@
   * [Tabi Graph](tools/tabi-graph.md)
   * [Tabi Link Oracle](tools/tabi-link-oracle.md)
 * [Tabi Under the hood](tabi-under-the-hood.md)
+
+## Captain Nodes
+
+* [Introduction to Tabi Captain Nodes](captain-nodes/introduction-to-tabi-captain-nodes.md)
+* [Mining Reward Calculation Logic](captain-nodes/mining-reward-calculation-logic.md)
+* [Booster Coefficient and Node Mining Power](captain-nodes/booster-coefficient-and-node-mining-power.md)
+* [Page 1](captain-nodes/page-1.md)
