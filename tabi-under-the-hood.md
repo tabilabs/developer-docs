@@ -7,9 +7,9 @@ Tabi Chain is a modular gaming chain. The core tech stack of Tabi is **Omnicompu
 * **Modular security layer**: Service can choose to use protocols like EigenLayer or Babylon to enable shared security.
 * **Service-centric**: dApp or game deploys its standalone service, which is part of the Tabi Chain overall consensus but has its independent and customisable execution layer, data structure, consensus scheme, etc..
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;This document will introduce Omnicomputing in a general and understandable way.
+This document will introduce Omnicomputing in a general and understandable way.
 
 ## Service-centric
 
@@ -49,7 +49,7 @@ Tabi Chain is a modular gaming chain. The core tech stack of Tabi is **Omnicompu
 
 <figure><img src=".gitbook/assets/image 5 (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Polymorphism VM decouples input data, state transition functions and state output. Thus the execution environment is modular and customisable, and can support any VM or self-defined runtime/VM.
+Polymorphism VM decouples input data, state transition functions and state output. Thus the execution environment is modular and customisable, and can support any VM or self-defined runtime/VM.
 
 We can simply take it as a statemachine with blockchain-related capabilities. Some major components of the Poly-VM:
 
@@ -71,7 +71,7 @@ Several examples to demonstrate the flexibility of Poly-VM:
 
 Polymorphism VM is highly customisable, especially for Web2 developers who can port any business logic into Polymorphism VM using languages and frameworks they are familiar with. However, we still need to provide a basic sample and definition that should be universal, highly abstract, and heuristic.
 
-Customising the behaviour of Polymorphism VM can be thought of as creating a state machine, where the part that developers really need to focus on is the State Transition Runtime.&#x20;
+Customising the behaviour of Polymorphism VM can be thought of as creating a state machine, where the part that developers really need to focus on is the State Transition Runtime.
 
 <figure><img src=".gitbook/assets/image 6.png" alt=""><figcaption></figcaption></figure>
 
@@ -148,16 +148,16 @@ By parallel we mean 3 layers of parallel consensus
 1.  **The overall consensus** combined with all blocks of all services produced in parallel and could form a DAG under certain conditions.
 
     <figure><img src=".gitbook/assets/parallel_1 (2).jpg" alt=""><figcaption></figcaption></figure>
-2.  Blocks of one service can be produced from different nodes of the service simultaneously and forming a DAG.&#x20;
+2.  Blocks of one service can be produced from different nodes of the service simultaneously and forming a DAG.
 
     <figure><img src=".gitbook/assets/image 2 (1).png" alt=""><figcaption></figcaption></figure>
-3.  Within each multi-node service, service nodes use **Parallel Hotstuff** consensus scheme produces blocks with parallel pipeline, which is 4x faster than traditional PBFT.&#x20;
+3.  Within each multi-node service, service nodes use **Parallel Hotstuff** consensus scheme produces blocks with parallel pipeline, which is 4x faster than traditional PBFT.
 
-    <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### State Merge
 
-State merge is a necessary concept for DAG-based parallel consensus. In blockchain VM, the "state" refers to the current status of all data stored within the VM. An arrow pointing to the previous block means that the state of this block evolved from the previous state. &#x20;
+State merge is a necessary concept for DAG-based parallel consensus. In blockchain VM, the "state" refers to the current status of all data stored within the VM. An arrow pointing to the previous block means that the state of this block evolved from the previous state.
 
 <figure><img src=".gitbook/assets/image 4.png" alt=""><figcaption></figcaption></figure>
 
@@ -167,7 +167,7 @@ Traditional linear consensus will use linear state transition while parallel con
 
 <figure><img src=".gitbook/assets/image 3 (3).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;We have noticed that there is a similar Directed Acyclic Graph (DAG) structure between different services to represent inter-service state merge. Due to the heterogeneity between services, inter-chain state merge is implicit and indirect. Namely, partial state data of service A affects the corresponding state in service B in the own rule of B.
+We have noticed that there is a similar Directed Acyclic Graph (DAG) structure between different services to represent inter-service state merge. Due to the heterogeneity between services, inter-chain state merge is implicit and indirect. Namely, partial state data of service A affects the corresponding state in service B in the own rule of B.
 
 Some one may regard this as cross-chain action but indeed they are quite different:
 

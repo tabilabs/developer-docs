@@ -14,4 +14,4 @@ The public faucet addresses for the testnet are:
 
 * **Hex**: [`0x567C7AA7F1CB4D96063E5AB3D09E2485609DB342`](https://testnet.tabiscan.com/address/0x567c7AA7F1Cb4d96063e5ab3D09e2485609DB342)
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

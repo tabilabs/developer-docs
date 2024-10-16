@@ -1,4 +1,4 @@
-# Smart-Contract
+# Smart Contract
 
 ## EVM Smart Contract
 
@@ -35,7 +35,7 @@ Then click the top right circle and go to `Settings > Networks`. Press the `Add 
 * ChainID: 9789
 * Symbol: TABI
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 #### Connect TabiChain-TestNet account to Remix
 
@@ -55,4 +55,4 @@ Once the contract has been successfully deployed, you will see it show up in the
 
 **Note: Solidity version must be <= 0.8.19.**
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
