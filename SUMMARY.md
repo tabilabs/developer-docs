@@ -17,6 +17,7 @@
   * [For developer](testnet-v2/for-developer.md)
   * [How to Add Tabi TestNet V2 to Metamask](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
   * [Captain Node Mining Guide](testnet-v2/captain-node-mining-guide.md)
+  * [Differences and Similarities Between Full Node](testnet-v2/differences-and-similarities-between-full-node.md)
 * [Getting Started](getting-started.md)
 * [Smart Contract](smart-contract.md)
 * [Block Explores](block-explores.md)
