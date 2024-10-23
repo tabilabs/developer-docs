@@ -9,6 +9,7 @@
   * [Information:](captain-node-pre-mining-tutorial/information.md)
   * [Get start the node usage tutorial](captain-node-pre-mining-tutorial/get-start-the-node-usage-tutorial.md)
   * [CLI Program Operation Guide](captain-node-pre-mining-tutorial/cli-program-operation-guide.md)
+  * [FAQ](captain-node-pre-mining-tutorial/faq.md)
 * [Testnet V2](testnet-v2/README.md)
   * [Infrastructure on Testnet V2](testnet-v2/infra-on-testnet-v2.md)
   * [Deploy Testnet-V2 full node](testnet-v2/deploy.md)
