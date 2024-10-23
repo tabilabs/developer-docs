@@ -1,5 +1,11 @@
 # Get start the node usage tutorial
 
+**Here is the video tutorial link**:⬇️
+
+[https://youtu.be/h8ZVCJupCes](https://youtu.be/h8ZVCJupCes)
+
+
+
 **Please download the Tabi Captain Node Console client from our official GitHub.**
 
 We offer clients for all systems: macOS/WIN/Linux
