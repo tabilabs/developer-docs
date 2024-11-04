@@ -34,7 +34,7 @@ open the link [http://127.0.0.1:1317/swagger/](http://127.0.0.1:1317/swagger/) i
 ```shell
 ~$ cd 
 ~$ cd .tabid
-~/.tabid$ vi config app
+~/.tabid$ vi config/app.toml
 ```
 
 Config the [json-rpc] section
