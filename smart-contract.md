@@ -24,18 +24,7 @@ You might already have an EVM account and hold its mnemonic phrase, but in Tabic
 
 #### Add Network with Metamask
 
-Before we use Remix to develop and deploy smart contracts, we could first add a custom network for Tabichain with [Metamask](https://metamask.io/).
-
-Open the Metamask extension on your browser, you may have to log in to your Metamask account if you are not already.
-
-Then click the top right circle and go to `Settings > Networks`. Press the `Add Network` button and fill the form as the example below with your application ChainID:
-
-* Network Name: Tabichain 1.0
-* RPC URL: [https://rpc.testnet.tabichain.com](https://rpc.testnet.tabichain.com)
-* ChainID: 9789
-* Symbol: TABI
-
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+See [how-to-add-tabi-testnet-v2-to-metamask.md](testnet-v2%2Fhow-to-add-tabi-testnet-v2-to-metamask.md)
 
 #### Connect TabiChain-TestNet account to Remix
 
