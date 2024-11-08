@@ -47,8 +47,12 @@ If it is greater than or equal to 0.1, the calculated value is used.
 5\. **Personal Stake Rate**:
 
 $$
-\text{PersonalStakeRate} = \frac{\text{StakedTotalCount veTABI}}{\text{ClaimedTotal veTABI}}
+\text{PersonalStakeRate} = \frac{\text{StakedTotalCount TABI}}{\text{ClaimedTotal veTABI}}
 $$
+
+
+
+
 
 * This rate is based on the user's total stake across validators and their node's claimed $veTABI.
 

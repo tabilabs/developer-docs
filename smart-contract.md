@@ -24,7 +24,7 @@ You might already have an EVM account and hold its mnemonic phrase, but in Tabic
 
 #### Add Network with Metamask
 
-See [how-to-add-tabi-testnet-v2-to-metamask.md](testnet-v2%2Fhow-to-add-tabi-testnet-v2-to-metamask.md)
+See [how-to-add-tabi-testnet-v2-to-metamask.md](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
 
 #### Connect TabiChain-TestNet account to Remix
 
