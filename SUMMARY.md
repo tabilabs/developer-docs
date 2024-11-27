@@ -13,13 +13,14 @@
 * Add Tabichain to wallet
   * [Testnet V2](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
 * [Block Explores](block-explores.md)
+* About Testnet v2
+  * [Testnet V2](testnet-v2/README.md)
+  * [Infrastructure on Testnet V2](testnet-v2/infra-on-testnet-v2.md)
 
 ## 🛠 Developer Guide
 * [Getting Started](getting-started.md)
 * [🌱 API Documenttation]((testnet-v2/for-developer.md))
-* Deploy Tabichain Nodes
-  * [Testnet V2](testnet-v2/README.md)
-  * [Infrastructure on Testnet V2](testnet-v2/infra-on-testnet-v2.md)
+* Tabichain Nodes
   * [Deploy Testnet-V2 full node](testnet-v2/deploy.md)
   * [Full node command line manual](testnet-v2/full-node-command-line-mannual.md)
   * [Differences and Similarities Between Full Node](testnet-v2/differences-and-similarities-between-full-node.md)
@@ -32,7 +33,6 @@
   * [Tabi Link Oracle](tools/tabi-link-oracle.md)
 
 ## 🛥 Captain Nodes
-
 * [Introduction to Tabi Captain Nodes](captain-nodes/introduction-to-tabi-captain-nodes.md)
 * [Mining Reward Calculation Logic](captain-nodes/mining-reward-calculation-logic.md)
 * [Booster Coefficient and Node Mining Power](captain-nodes/booster-coefficient-and-node-mining-power.md)
