@@ -64,4 +64,4 @@ See [GraphQL API for details](https://thegraph.com/docs/zh/querying/querying-bes
 [https://thegraph.com/docs/zh/developing/creating-a-subgraph](https://thegraph.com/docs/zh/developing/creating-a-subgraph)
 
 [https://thegraph.com/docs/zh/quick-start\
-](https://thegraph.com/docs/zh/quick-start)\\
+](https://thegraph.com/docs/zh/quick-start)\

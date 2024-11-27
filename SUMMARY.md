@@ -9,10 +9,12 @@
 # [Litepaper](empty.md)
 
 ## 💡 User Guide
-* [Available Networks](empty.md)
 * Add Tabichain to wallet
   * [Testnet V2](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
 * [Block Explores](block-explores.md)
+
+## Available Networks
+* [Network Infomation](available-networks/network-information.md)  
 * About Testnet v2
   * [Testnet V2](testnet-v2/README.md)
   * [Infrastructure on Testnet V2](testnet-v2/infra-on-testnet-v2.md)
@@ -20,7 +22,7 @@
 ## 🛠 Developer Guide
 * [Getting Started](getting-started.md)
 * [🌱 API Documenttation]((testnet-v2/for-developer.md))
-* Tabichain Nodes
+* Nodes
   * [Deploy Testnet-V2 full node](testnet-v2/deploy.md)
   * [Full node command line manual](testnet-v2/full-node-command-line-mannual.md)
   * [Differences and Similarities Between Full Node](testnet-v2/differences-and-similarities-between-full-node.md)
@@ -31,6 +33,7 @@
   * [Tools and Plugins](tools/tools-and-plugins.md)
   * [Tabi Graph](tools/tabi-graph.md)
   * [Tabi Link Oracle](tools/tabi-link-oracle.md)
+
 
 ## 🛥 Captain Nodes
 * [Introduction to Tabi Captain Nodes](captain-nodes/introduction-to-tabi-captain-nodes.md)
@@ -43,7 +46,7 @@
   * [Tier System and Activation Timing](captain-node/tier-system-and-activation-timing.md)
 
 * [Captain Node Pre-mining Tutorial](captain-node-pre-mining-tutorial/README.md)
-  * [Information:](captain-node-pre-mining-tutorial/information.md)
+  * [Information](captain-node-pre-mining-tutorial/information.md)
   * [Get start the node usage tutorial](captain-node-pre-mining-tutorial/get-start-the-node-usage-tutorial.md)
   * [CLI Program Operation Guide](captain-node-pre-mining-tutorial/cli-program-operation-guide.md)
   * [FAQ](captain-node-pre-mining-tutorial/faq.md)

@@ -1,8 +1,6 @@
 ---
-description: Faucet
+description: Testnet V1 Faucet
 ---
-
-# Faucet
 
 The Tabichain Testnet [Faucet](https://faucet.testnet.tabichain.com/) distributes small amounts of to anyone who can provide a valid testnet address. Users can request funds from the faucet either by using the Keplr or Metamask.
 
