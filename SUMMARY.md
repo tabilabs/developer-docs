@@ -4,24 +4,24 @@
 * [Overview](README.md)
 * [About Tabichain](about-tabichain.md)
 
-# Roadmap
-
-# [Litepaper](empty.md)
+## 📄 Roadmap
+## 🌱 Audit 
+## 🧷 Litepaper
 
 ## 💡 User Guide
 * Add Tabichain to wallet
   * [Testnet V2](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
 * [Block Explores](block-explores.md)
 
-## Available Networks
-* [Network Infomation](available-networks/network-information.md)  
+## 🔍 Available Networks
+* [Public Endpoints](available-networks/public-endpoints.md)  
 * About Testnet v2
   * [Testnet V2](testnet-v2/README.md)
   * [Infrastructure on Testnet V2](testnet-v2/infra-on-testnet-v2.md)
 
 ## 🛠 Developer Guide
 * [Getting Started](getting-started.md)
-* [🌱 API Documenttation]((testnet-v2/for-developer.md))
+* [API Documenttation]((testnet-v2/for-developer.md))
 * Nodes
   * [Deploy Testnet-V2 full node](testnet-v2/deploy.md)
   * [Full node command line manual](testnet-v2/full-node-command-line-mannual.md)
