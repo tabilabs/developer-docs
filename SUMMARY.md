@@ -5,14 +5,16 @@
 * [About Tabichain](about-tabichain.md)
 
 ## 💡 User Guide
-* [Available Networks]()
-* [Add Tabichain to wallet](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
+* [Available Networks](empty.md)
+* Add Tabichain to wallet
+  * [Testnet V2](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
 * [Block Explores](block-explores.md)
 
 ## 🛠 Developer Guide
 * [Getting Started](getting-started.md)
 * [🌱 API Documenttation]((testnet-v2/for-developer.md))
-* [Available Networks](testnet-v2/README.md)
+* Deploy Tabichain Nodes
+  * [Testnet V2](testnet-v2/README.md)
   * [Infrastructure on Testnet V2](testnet-v2/infra-on-testnet-v2.md)
   * [Deploy Testnet-V2 full node](testnet-v2/deploy.md)
   * [Full node command line manual](testnet-v2/full-node-command-line-mannual.md)
