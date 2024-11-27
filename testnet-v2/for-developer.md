@@ -1,6 +1,4 @@
 
-
-# For Developers
 ## Tabi chain API document
 #### Online Tabi chain API document
 
