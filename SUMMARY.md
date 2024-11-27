@@ -4,9 +4,9 @@
 * [Overview](README.md)
 * [About Tabichain](about-tabichain.md)
 
-## 📄 Roadmap
-## 🌱 Audit 
-## 🧷 Litepaper
+## [📄 Roadmap](https://tabi-official.medium.com/)
+## [🌱 Audit](https://tabi-official.medium.com/)
+## [🧷 Litepaper](https://tabi-official.medium.com/)
 
 ## 💡 User Guide
 * Add Tabichain to wallet
