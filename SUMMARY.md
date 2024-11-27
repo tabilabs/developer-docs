@@ -21,7 +21,7 @@
 
 ## 🛠 Developer Guide
 * [Getting Started](testnet-v2/for-developer.md)
-* [API Documenttation](http://13.56.233.82:1317/swagger)
+* [API Documentation](http://13.56.233.82:1317/swagger)
 * Nodes
   * [Deploy Testnet-V2 full node](testnet-v2/deploy.md)
   * [Full node command line manual](testnet-v2/full-node-command-line-mannual.md)
