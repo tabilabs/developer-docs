@@ -3,9 +3,8 @@
 ## 📝 Introduction
 * [Overview](README.md)
 * [About Tabichain](about-tabichain.md)
-* [Roadmap](https://tabi-official.medium.com/)
-* [Audit](https://tabi-official.medium.com/)
-* [Litepaper](https://tabi-official.medium.com/)
+* [Tabi's Core](https://tabitabi.notion.site/Tabi-s-core-13f418cef0f58044b449c18ec6854cb8)
+
 
 ## 💡 User Guide
 * Add Tabichain to wallet
