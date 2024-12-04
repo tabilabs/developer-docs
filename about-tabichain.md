@@ -1,4 +1,4 @@
-# About Tabichain
+# 💢 About Tabichain
 
 ## Technical Architecture
 
@@ -33,4 +33,3 @@ Tabichain enables EVM compatibility by implementing various components that toge
 * Ethereum's `secp256k1` curve for the Cosmos Keyring
 * `StateDB` interface for state updates and queries
 * JSON-RPC client for interacting with the EVM
-
