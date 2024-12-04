@@ -9,7 +9,7 @@
 ## 💡 User Guide
 
 * [Add Tabichain to wallet](user-guide/add-tabichain-to-wallet/README.md)
-  * [Testnet V2](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
+  * [Testnet V2 Guide](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
 * [Block Explores](block-explores.md)
 
 ## 🔍 Available Networks

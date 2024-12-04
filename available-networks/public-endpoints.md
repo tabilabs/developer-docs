@@ -1,20 +1,10 @@
 ---
-description: We have now deployed testnet v1 and testnet v2
 icon: earth-americas
 ---
 
 # Public Endpoints
 
-### Testnet V1
+### Testnet V2 Endpoints
 
-| Service       | Support | URL                                                   |
-| ------------- | ------- | ----------------------------------------------------- |
-| BlockExporter | `evm`   | [testnet.tabiscan.com](https://testnet.tabiscan.com/) |
-| RPC           | `-`     | [testnet.tabiscan.com](https://testnet.tabiscan.com/) |
+<table><thead><tr><th>Service</th><th width="163">Support</th><th>URL</th></tr></thead><tbody><tr><td>RPC</td><td><code>evm, cosmos</code></td><td><a href="https://rpc.testnetv2.tabichain.com/">https://rpc.testnetv2.tabichain.com</a></td></tr><tr><td>Chain ID</td><td>-</td><td>9788</td></tr><tr><td>BlockExporter</td><td><code>evm</code></td><td><a href="https://testnetv2.tabiscan.com/">https://testnetv2.tabiscan.com</a></td></tr></tbody></table>
 
-### Testnet V2
-
-| Service       | Support | URL                                                   |
-| ------------- | ------- | ----------------------------------------------------- |
-| BlockExporter | `evm`   | [testnet.tabiscan.com](https://testnet.tabiscan.com/) |
-| RPC           | `-`     | [testnet.tabiscan.com](https://testnet.tabiscan.com/) |
