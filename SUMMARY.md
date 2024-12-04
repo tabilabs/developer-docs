@@ -8,16 +8,15 @@
 
 ## 💡 User Guide
 
-* [Add Tabichain to wallet](user-guide/add-tabichain-to-wallet/README.md)
-  * [Testnet V2 Guide](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
-* [Block Explores](block-explores.md)
+* [Add Tabichain to wallet Guide](user-guide/add-tabichain-to-wallet-guide.md)
+* [About Testnet v2](user-guide/about-testnet-v2/README.md)
+  * [Infrastructure on Testnet V2](user-guide/about-testnet-v2/infra-on-testnet-v2.md)
 
 ## 🔍 Available Networks
 
 * [Public Endpoints](available-networks/public-endpoints.md)
-* [About Testnet v2](available-networks/about-testnet-v2/README.md)
-  * [Testnet V2](testnet-v2/README.md)
-  * [Infrastructure on Testnet V2](testnet-v2/infra-on-testnet-v2.md)
+* [Block Explores](available-networks/block-explores.md)
+* [Faucet](available-networks/faucet.md)
 
 ## 🛠️ Developer Guide
 
@@ -27,7 +26,6 @@
   * [Deploy Testnet-V2 full node](testnet-v2/deploy.md)
   * [Full node command line manual](testnet-v2/full-node-command-line-mannual.md)
   * [Differences and Similarities Between Full Node](testnet-v2/differences-and-similarities-between-full-node.md)
-* [Faucet](faucet.md)
 * [Smart Contract](smart-contract.md)
 * [Tools](tools/README.md)
   * [Tools and Plugins](tools/tools-and-plugins.md)

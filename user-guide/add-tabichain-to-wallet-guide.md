@@ -1,4 +1,8 @@
-# Testnet V2
+---
+icon: wallet
+---
+
+# Add Tabichain to wallet Guide
 
 ### Summary
 

@@ -24,11 +24,11 @@ You might already have an EVM account and hold its mnemonic phrase, but in Tabic
 
 #### Add Network with Metamask
 
-See [how to add tabi testnet v2 to metamask](testnet-v2/how-to-add-tabi-testnet-v2-to-metamask.md)
+See [how to add tabi testnet v2 to metamask](broken-reference)
 
 #### Connect TabiChain-TestNet account to Remix
 
-**Note: You may need to go to the** [**faucet**](faucet.md) **to obtain some test tokens first**
+**Note: You may need to go to the** [**faucet**](available-networks/faucet.md) **to obtain some test tokens first**
 
 Start your TabiChain daemon and rest server, or just connect to the remote server, based on your network configuration.
 

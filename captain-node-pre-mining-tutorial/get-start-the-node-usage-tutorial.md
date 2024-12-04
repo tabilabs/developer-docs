@@ -30,11 +30,11 @@ After creation, you will receive a brand new wallet. **We strongly recommend tha
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-**Step 1: Copy your wallet address**Please copy your wallet address and enter the Tabi Captain Node Dashboard**<**[**https://app.tabichain.com/**](https://app.tabichain.com/)**>**
+**Step 1: Copy your wallet address**Please copy your wallet address and enter the Tabi Captain Node Dashboar&#x64;**<**[**https://app.tabichain.com/**](https://app.tabichain.com/)**>**
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-**Please connect the **_**wallet address with Captain Node**_** here and complete the signature.**
+**Please connect the&#x20;**_**wallet address with Captain Node**_**&#x20;here and complete the signature.**
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
