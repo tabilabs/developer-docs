@@ -1,32 +1,32 @@
 # Tabi Graph
 
-## Introduction
+### Introduction
 
 Tabi Graph is built using Graph Node, an open-source Rust implementation whose event sources come from the Ethereum blockchain to deterministically update data stores that can be queried through GraphQL endpoints.
 
-## Instructions
+### Instructions
 
-1. #### Installing the Graph CLI
+1. **Installing the Graph CLI**
 
 On your local computer, run one of the following commands: Use npm:
 
-```Plain
+```
 npm install -g @graphprotocol/graph-cli
 ```
 
 Use yarn:
 
-```Plain
+```
 yarn global add @graphprotocol/graph-cli
 ```
 
-2. #### Initialization
+2. **Initialization**
 
-```Plain
+```
 graph init --studio <SUBGRAPH_SLUG>
 ```
 
-3. #### Subgraph preparation
+3. **Subgraph preparation**
 
 When making changes to Subgraph, three main files will be used:
 
@@ -36,32 +36,32 @@ When making changes to Subgraph, three main files will be used:
 
 Refer to [The Graph](https://thegraph.com/docs/zh/developing/creating-a-subgraph/)
 
-4. #### Deployment
+4. **Deployment**
 
 Once your Subgraph is written, run the following command:
 
-```Plain
+```
 graph codegen
 graph build
 graph deploy <SUBGRAPH_SLUG> --ipfs https://graph.testnet.tabichain.com/ipfs --node https://graph.testnet.tabichain.com/deploy
 ```
 
-5. #### Query
+5. **Query**
 
 Query address: https://graph.testnet.tabichain.com/subgraphs/name/ < NAME >
 
 See [GraphQL API for details](https://thegraph.com/docs/zh/querying/querying-best-practices/)\\
 
-## Example
+### Example
 
 [https://github.com/graphprotocol/example-subgraph\
 ](https://github.com/graphprotocol/example-subgraph)
 
-## Reference
+### Reference
 
 [https://github.com/graphprotocol/graph-node?tab=readme-ov-file](https://github.com/graphprotocol/graph-node?tab=readme-ov-file)
 
 [https://thegraph.com/docs/zh/developing/creating-a-subgraph](https://thegraph.com/docs/zh/developing/creating-a-subgraph)
 
 [https://thegraph.com/docs/zh/quick-start\
-](https://thegraph.com/docs/zh/quick-start)\
+](https://thegraph.com/docs/zh/quick-start)

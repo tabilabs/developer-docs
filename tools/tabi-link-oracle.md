@@ -1,40 +1,36 @@
 # Tabi Link Oracle
 
-## Introduction
+### Introduction
 
 > Tabi Link includes Oracle and VRF, where Oracle represents an oracle that enables smart contracts to retrieve data from the outside world. VRF, also known as a verifiable random function, is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without affecting security or availability.
 
+### I. Oracle
 
+**Working principle:**
 
-## I. Oracle
+Consumer Address: 0xdD325193a3195b4654b12EaCFE0fE548C7761590
 
-Working principle:
+Oracle address: 0x590311669252DCF34bfbF3981747D13Cf09ec19A
 
-<figure><img src="https://rsrwqlwga4a.jp.larksuite.com/space/api/box/stream/download/asynccode/?code=YmFhZmUxNDM4ZTBlZjQwN2VlN2EyNjdkNjQyNjlmNTZfSEFPYUo5czk1MWRNQ2lQd01KTDZiMmpyd3NXU012ZXlfVG9rZW46UkxqOGJWU1Brb1pITWx4OTdmOGpGMHM4cGVlXzE3MTUwNzUxMDY6MTcxNTA3ODcwNl9WNA" alt=""><figcaption></figcaption></figure>
+Existing jobs are as follows:
 
-Consumer Address: 0xdD325193a3195b4654b12EaCFE0fE548C7761590&#x20;
+Get > Uint256 - (TOML) : 5b507ee5e7af477ebf31d4efaa5ba85b
 
-Oracle address: 0x590311669252DCF34bfbF3981747D13Cf09ec19A&#x20;
+Get > Int256 - (TOML) : bcb8bc009e6042dd96727b61f4bd0238
 
-Existing jobs are as follows:&#x20;
+Get > Bool - (TOML) : ecacc544321640c399ddec5e99d6197f
 
-Get > Uint256 - (TOML) : 5b507ee5e7af477ebf31d4efaa5ba85b&#x20;
+Get > String : a109c25f143d4adf9a5258628ad88bb2
 
-Get > Int256 - (TOML) : bcb8bc009e6042dd96727b61f4bd0238&#x20;
-
-Get > Bool - (TOML) : ecacc544321640c399ddec5e99d6197f&#x20;
-
-Get > String : a109c25f143d4adf9a5258628ad88bb2&#x20;
-
-Get > Bytes : 264423c8ec534be6af0bb24ec8b1fdfa&#x20;
+Get > Bytes : 264423c8ec534be6af0bb24ec8b1fdfa
 
 multi-word (TOML) : c7116b94377d41cb94b4fe9ea38e1d3a
 
 
 
-Consumer contracts are as follows:
+**Consumer contracts are as follows:**
 
-```TypeScript
+```typescript
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.7.6;
 
@@ -116,9 +112,9 @@ contract ATestnetConsumer is ChainlinkClient, ConfirmedOwner {
 ```
 
 \
-Request code:
+**Request code:**
 
-```TypeScript
+```typescript
 import { ethers } from "hardhat";
 
 async function main() {
@@ -154,19 +150,18 @@ main().catch((error) => {
 });
 ```
 
-The results are as follows:
+**The results are as follows:**
 
-```Plain
+```
 npx hardhat run scripts/deploy_ATestnetConsumer.ts  --network tabi
 ATestnetConsumer: 0xdD325193a3195b4654b12EaCFE0fE548C7761590
 request tx hash: 0x8b3270449f3690e0592458ff836afdbed9955cdcbda20ac7c82535b66636c3bf
 _requestId: 0xa95ad018d2d2eb8f728b2cabe8bdcc38c2a89dba422c88b5af0aaa868a6d74ff  price: 342234n
 ```
 
-Detailed code can be found in [tabi-oracle](https://github.com/tabilabs/tabi-oracle)\
+Detailed code can be found in [tabi-oracle](https://github.com/tabilabs/tabi-oracle)\\
 
-
-## II. VRF
+### II. VRF
 
 The specific process is shown in the figure.
 
@@ -178,7 +173,7 @@ VRF Coordinator Address: 0x9492b270EdA7d4046D6aa5e3F15c24deD2c8BD25
 
 The contract code for **VRFConsumer.sol** is as follows:
 
-```Solidity
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
@@ -270,9 +265,9 @@ contract VRFConsumer is VRFConsumerBase, OwnableUpgradeable
 }
 ```
 
-VRFConsumerBase.sol contract:
+**VRFConsumerBase.sol contract:**
 
-```Solidity
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
@@ -317,9 +312,9 @@ abstract contract VRFConsumerBase {
 
 \
 \
-The request code is as follows:
+**The request code is as follows:**
 
-```JavaScript
+```javascript
 import {ethers} from "ethers";
 import abi_VRFConsumer from "./abi_VRFConsumer.json" assert { type: "json" }
 import abi_VRFCoordinator from "./abi_VRFCoordinator.json" assert { type: "json" }
@@ -372,6 +367,3 @@ main()
 ```
 
 _See_ [_VRF Example_](https://github.com/tabilabs/vrf-example)\
-\
-\
-\
