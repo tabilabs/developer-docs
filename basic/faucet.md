@@ -1,6 +1,17 @@
 ---
-description: Testnet V1 Faucet
 icon: faucet
+description: Testnet V1 Faucet
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Faucet

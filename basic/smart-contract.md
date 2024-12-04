@@ -28,7 +28,7 @@ See [how to add tabi testnet v2 to metamask](broken-reference)
 
 #### Connect TabiChain-TestNet account to Remix
 
-**Note: You may need to go to the** [**faucet**](available-networks/faucet.md) **to obtain some test tokens first**
+**Note: You may need to go to the** [**faucet**](faucet.md) **to obtain some test tokens first**
 
 Start your TabiChain daemon and rest server, or just connect to the remote server, based on your network configuration.
 
@@ -44,4 +44,4 @@ Once the contract has been successfully deployed, you will see it show up in the
 
 **Note: Solidity version must be <= 0.8.19.**
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
