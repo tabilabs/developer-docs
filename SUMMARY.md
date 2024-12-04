@@ -38,7 +38,6 @@
 * [Mining Reward Calculation Logic](captain-nodes/mining-reward-calculation-logic.md)
 * [Booster Coefficient and Node Mining Power](captain-nodes/booster-coefficient-and-node-mining-power.md)
 * [Captain Nodes](captain-node/README.md)
-  * [Mining Reward Calculation Logic](captain-node/mining-reward-calculation-logic.md)
   * [Booster Factor and Node Mining Power](captain-node/booster-factor-and-node-mining-power.md)
   * [Tier System and Activation Timing](captain-node/tier-system-and-activation-timing.md)
 * [Captain Node Pre-mining Tutorial](captain-node-pre-mining-tutorial/README.md)

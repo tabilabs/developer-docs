@@ -50,7 +50,7 @@ graph deploy <SUBGRAPH_SLUG> --ipfs https://graph.testnet.tabichain.com/ipfs --n
 
 Query address: https://graph.testnet.tabichain.com/subgraphs/name/ < NAME >
 
-See [GraphQL API for details](https://thegraph.com/docs/zh/querying/querying-best-practices/)\\
+See [GraphQL API for details](https://thegraph.com/docs/zh/querying/querying-best-practices/)
 
 ### Example
 
