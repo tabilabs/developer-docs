@@ -1,6 +1,10 @@
+---
+icon: sim-cards
+---
+
 # Smart Contract
 
-## EVM Smart Contract
+### EVM Smart Contract
 
 Since the introduction of Ethereum in 2015, the ability to control digital assets through smart contracts has attracted a large community of developers to build decentralized applications on the Ethereum Virtual Machine.
 
