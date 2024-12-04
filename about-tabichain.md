@@ -6,10 +6,10 @@ Tabichain is a scalable Proof-of-Stake blockchain that is fully compatible and i
 
 Tabichain enables these key features by:
 
-* Leveraging [modules](https://docs.cosmos.network/v0.47/build/building-modules/intro) and other mechanisms implemented by the [Cosmos SDK](https://docs.cosmos.network/).
-* Implementing CometBFT's Application Blockchain Interface ([ABCI](https://docs.tendermint.com/master/spec/abci/)) to manage the blockchain.
-* Utilizing [`geth`](https://github.com/ethereum/go-ethereum) as a library to promote code reuse and improve maintainability.
-* Exposing a fully compatible Web3 JSON-RPC layer for interacting with existing Ethereum clients and tooling (Metamask, Remix, Truffle, etc).
+1. Leveraging [modules](https://docs.cosmos.network/v0.47/build/building-modules/intro) and other mechanisms implemented by the [Cosmos SDK](https://docs.cosmos.network/).
+2. Implementing CometBFT's Application Blockchain Interface ([ABCI](https://docs.tendermint.com/master/spec/abci/)) to manage the blockchain.
+3. Utilizing [`geth`](https://github.com/ethereum/go-ethereum) as a library to promote code reuse and improve maintainability.
+4. Exposing a fully compatible Web3 JSON-RPC layer for interacting with existing Ethereum clients and tooling (Metamask, Remix, Truffle, etc).
 
 The sum of these features allows developers to leverage existing Ethereum ecosystem tooling and software to seamlessly deploy smart contracts which interact with the rest of the Cosmos [ecosystem](https://cosmos.network/ecosystem).
 
@@ -29,7 +29,7 @@ Another example of a cryptocurrency application built on CometBFT is the Cosmos 
 
 Tabichain enables EVM compatibility by implementing various components that together support all the EVM state transitions while ensuring the same developer experience as Ethereum:
 
-* Ethereum's transaction format as a Cosmos SDK `Tx` and `Msg` interface
-* Ethereum's `secp256k1` curve for the Cosmos Keyring
-* `StateDB` interface for state updates and queries
-* JSON-RPC client for interacting with the EVM
+1. Ethereum's transaction format as a Cosmos SDK `Tx` and `Msg` interface
+2. Ethereum's `secp256k1` curve for the Cosmos Keyring
+3. `StateDB` interface for state updates and queries
+4. JSON-RPC client for interacting with the EVM
