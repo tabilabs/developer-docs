@@ -33,6 +33,8 @@
   * [Tools and Plugins](tools/tools-and-plugins.md)
   * [Tabi Graph](tools/tabi-graph.md)
   * [Tabi Link Oracle](tools/tabi-link-oracle.md)
+* [Polymorphic Virtual Machine](pvm/pvm.md)
+  
 
 ## 🛥️ Captain Nodes
 
