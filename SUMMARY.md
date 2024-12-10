@@ -6,6 +6,7 @@
 * [💢 About Tabichain](about-tabichain.md)
 * [Whitepaper](https://cdn.tabichain.com/Whitepaper1.0.pdf)
 * [Tabi's Core](https://tabitabi.notion.site/Tabi-s-core-13f418cef0f58044b449c18ec6854cb8)
+* [Captain Nodes](https://tabichain.gitbook.io/tabi-or-captain-node)
 
 ## 💡 User Guide
 
