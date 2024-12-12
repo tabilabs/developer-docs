@@ -19,7 +19,9 @@ To do so, Tabi will be hyper-focused on onboarding Web2 users into the space and
 ### Proof-of-Attention Token Economy
   Tabi introduces a Proof-of-Attention token economy model, whereby $TABI serves as the main governance and utility token within the Tabi ecosystem and can also effectively become the universal token for attention.
 
-$TABI will be used as a coordinating mechanism to direct users’ attention to various consumer apps, activating communities to collectively focus their attention on productive goals that can actually drive value to the consumer apps they use and like, thus creating symbiotic relationships as opposed to purely mercenary user liquidity. 
+  $TABI will be used as a coordinating mechanism to direct users’ attention to various consumer apps, activating communities to collectively focus their attention on productive goals that can actually drive value to the consumer apps they use and like, thus creating symbiotic relationships as opposed to purely mercenary user liquidity.
+  <figure><img src="../.gitbook/assets/POA.png" alt=""><figcaption></figcaption></figure>
+
 ### User Distribution Engine
   A user distribution engine is also built in with the objective of helping developers and consumer apps be able to search for their target profile of users based on their offchain and onchain data.
 
