@@ -34,7 +34,7 @@
   * [Tabi Graph](tools/tabi-graph.md)
   * [Tabi Link Oracle](tools/tabi-link-oracle.md)
 * [Polymorphic Virtual Machine](pvm/pvm.md)
-  
+* [TLink Introduction](developer-guide/tlink-introduction.md)
 
 ## 🛥️ Captain Nodes
 
