@@ -49,3 +49,7 @@
   * [Get start the node usage tutorial](captain-node-pre-mining-tutorial/get-start-the-node-usage-tutorial.md)
   * [CLI Program Operation Guide](captain-node-pre-mining-tutorial/cli-program-operation-guide.md)
   * [FAQ](captain-node-pre-mining-tutorial/faq.md)
+
+***
+
+* [$seedTABI](usdseedtabi.md)
