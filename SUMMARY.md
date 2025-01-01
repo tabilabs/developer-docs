@@ -17,7 +17,7 @@
 ## 🔍 Basic
 
 * [Public Endpoints](basic/public-endpoints.md)
-* [Block Explores](basic/block-explores.md)
+* [Block Explorer](basic/block-explores.md)
 * [Faucet](basic/faucet.md)
 * [Smart Contract](basic/smart-contract.md)
 
