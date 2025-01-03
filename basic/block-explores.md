@@ -14,4 +14,4 @@ Below is a list of public block explorers that support Tabichain Testnet:
 
 | Service       | Support | URL                                                   |
 | ------------- | ------- | ----------------------------------------------------- |
-| BlockExporter | `evm`   | [testnet.tabiscan.com](https://testnet.tabiscan.com/) |
+| Block Explorer | `evm`   | [testnet.tabiscan.com](https://testnet.tabiscan.com/) |
